@@ -1,0 +1,10 @@
+UCSD COGS18 S19
+Final Project: Game of Life
+elizabeth hostetter
+A13091586
+
+This project requires 
+
+	numpy - for arrays
+	pygame - for keyclick access
+	IPython.display - to clear grid between ticks
